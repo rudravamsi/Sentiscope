@@ -11,7 +11,7 @@
 ---
 
 ## 🔗 Live Demo
-**[→ Try SentiScope here](https://sentiscope.streamlit.app)**
+**[→ Try SentiScope here](https://sentiscope-nlp.streamlit.app/)**
 
 ---
 
