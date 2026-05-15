@@ -1,0 +1,11 @@
+# Large dataset files - too big for GitHub
+train.ft.txt.bz2
+test.ft.txt.bz2
+
+# Large CSV files
+cleaned_reviews.csv
+raw_reviews.csv
+
+# Python cache
+__pycache__/
+*.pyc
